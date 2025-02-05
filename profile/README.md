@@ -12,3 +12,4 @@ Projektin päähuomio on [TIDE-VSCode](https://github.com/TIES405-vscode/TIDE-VS
 
 ## Muuta
 - [TIES405 Sovellusprojektin ohjeistus](https://github.com/ohjelmistotuotanto-jyu/Sovellusprojekti/blob/main/README.md)
+- [Ryhmän työskentelyn peruskäytänteet](https://docs.google.com/document/d/e/2PACX-1vQ75cuWKSlyTpy5V-XrAdC_BXalb422vNu0i-zxVnaPwiFGC0XURDQE31HWs8O9ZDxUdV1RR_K68DzO/pub)
